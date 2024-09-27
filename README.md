@@ -1,12 +1,13 @@
-# 🌟 Portafolio de **[OUSSAMA GHEZZALI]**
+# 🌟 Portafolio de **OUSSAMA GHEZZALI**
 
-¡Bienvenido a mi portafolio! Soy [Oussama], un apasionado de [Informatica] con experiencia en []. En este documento, encontrarás información sobre mí, mis proyectos y cómo contactarme.
+¡Bienvenido a mi portafolio! Soy **Oussama**, un apasionado de [Informatica] con experiencia en . En este documento, encontrarás información sobre mí, mis proyectos y cómo contactarme.
 
 ---
 
 ## 👤 Acerca de mí
 
-Soy [una breve descripción sobre ti, tus intereses y tu experiencia]. Me encanta [mencionar tus pasiones o hobbies relacionados con tu profesión].
+Soy estudiante de administracion de sistemas informatica en red  y cocinero en bodegas campos de cordoba 
+teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de trabajo en el sector de hosteleria y despues de aprender español ]. Me encanta [mencionar tus pasiones o hobbies relacionados con tu profesión].
 
 ---
 

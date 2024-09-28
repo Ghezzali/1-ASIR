@@ -50,11 +50,11 @@ teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de t
 
 ## 📚 Educación
 
-- **[Direccion de cocina] en [IESGrancapitan]**  
-  [Nombre de la institución] - [Año de graduación]
+- **[Direccion de cocina] en CORDOBA**  
+  IESGrancapitan - 2023
 
-- **[Curso o Certificación]**  
-  [Nombre de la plataforma o institución] - [Año de finalización]
+- **[ADMINISTRACION DE SISTEMAS INFORMATICAS EN RED ]**  
+  [CES RAMON Y CAJAL] - 
 
 ---
 
@@ -62,7 +62,7 @@ teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de t
 
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
-- **Email:** [tuemail@example.com](mailto:tuemail@example.com)
+- **Email:** [ossamafbs19@gmail.com ](ossamafbs19@gmail.com)
 - **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
 - **GitHub:** [Tu perfil de GitHub](https://github.com/tuusuario)
 

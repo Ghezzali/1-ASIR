@@ -64,7 +64,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 - **Email:** [ossamafbs19@gmail.com ](ossamafbs19@gmail.com)
 - **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **GitHub:** [Tu perfil de GitHub](https://github.com/tuusuario)
+- **GitHub:** [https://github.com/Ghezzali](https://github.com/Ghezzali)
 
 ---
 

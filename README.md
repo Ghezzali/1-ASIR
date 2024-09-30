@@ -63,7 +63,7 @@ teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de t
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 - **Email:** [ossamafbs19@gmail.com ](ossamafbs19@gmail.com)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:** [https://www.linkedin.com/in/oussama-ghezzali-a8897523a/](https://www.linkedin.com/in/oussama-ghezzali-a8897523a/)
 - **GitHub:** [https://github.com/Ghezzali](https://github.com/Ghezzali)
 
 ---

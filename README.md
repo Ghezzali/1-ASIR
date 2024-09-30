@@ -11,7 +11,7 @@ teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de t
 jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer caballitos en motos![CarpoolMotorcycleSharingABikeGIF](https://github.com/user-attachments/assets/98c7d178-6ec2-45bf-b435-a2d0e5ae1e9a)
 
 
----
+---  (❁´◡`❁)
 
 ## 🛠 Habilidades
 
@@ -34,20 +34,17 @@ jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni d
 
 ## 💼 Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1]
-- **Descripción:** [Breve descripción del proyecto]
-- **Tecnologías:** [Tecnologías utilizadas]
-- **Enlace:** [URL del proyecto o repositorio]
+### 1. **Sistema de Gestión de Inventario📖**
+- **Descripción:** Desarrollé una aplicación web para gestionar el inventario de una pequeña empresa. Permite agregar, eliminar y actualizar productos, y genera reportes.
+- **Tecnologías:** Python, Flask, SQLite
 
-### 2. [Nombre del Proyecto 2]
-- **Descripción:** [Breve descripción del proyecto]
-- **Tecnologías:** [Tecnologías utilizadas]
-- **Enlace:** [URL del proyecto o repositorio]
+### 2. **Red Virtual con Docker🥽**
+- **Descripción:** Configuré una red virtual utilizando Docker para simular un entorno de producción. Incluye varios contenedores para diferentes servicios.
+- **Tecnologías:** Docker, Docker Compose
 
-### 3. [Nombre del Proyecto 3]
-- **Descripción:** [Breve descripción del proyecto]
-- **Tecnologías:** [Tecnologías utilizadas]
-- **Enlace:** [URL del proyecto o repositorio]
+### 3. **Aplicación de Recetas de Cocina👨🏼‍🍳**
+- **Descripción:** Creé una aplicación web para compartir recetas de cocina. Permite a los usuarios agregar y buscar recetas, y compartir comentarios.
+- **Tecnologías:** JavaScript, Node.js, MongoDB
 
 ---
 

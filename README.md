@@ -10,7 +10,7 @@ Soy estudiante de administracion de sistemas informatica en red  y cocinero en b
 teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de trabajo en el sector de hosteleria y despues de aprender español. Me encanta.
 jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer caballitos en motos 
 
----  (❁´◡`❁)     :EMOJICODE:
+---  
 
 ## 🛠 Habilidades
 

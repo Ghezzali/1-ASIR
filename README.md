@@ -16,8 +16,7 @@ jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni d
 
 - **Lenguajes de programación:**
   - Python
-  - JavaScript        _(es lo que quiero aprender en realidad)_  ![AwkwardUmmWhatGIF](https://github.com/user-attachments/assets/c7da48e4-cefd-412e-83d2-c7cf66217794)
-
+  - JavaScript      
   - HTML/CSS
 
 - **Frameworks y bibliotecas:**
@@ -49,11 +48,11 @@ jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni d
 
 ## 📚 Educación
 
-- **[Direccion de cocina] en CORDOBA**  
+- _**Direccion de cocina**_👨🏼‍🍳  
   IESGrancapitan - 2023
 
-- **[ADMINISTRACION DE SISTEMAS INFORMATICAS EN RED ]**  
-  [CES RAMON Y CAJAL] - 
+- _**ADMINISTRACION DE SISTEMAS INFORMATICAS EN RED**_🧑🏼‍💻
+  _CES RAMON Y CAJAL_ 
 
 ---
 
@@ -70,4 +69,4 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 ## 🎉 Agradecimientos
 
 Gracias por visitar mi portafolio. Espero que encuentres interesante mi trabajo. ¡No dudes en contactarme!
-
+ ![AwkwardUmmWhatGIF](https://github.com/user-attachments/assets/c7da48e4-cefd-412e-83d2-c7cf66217794)

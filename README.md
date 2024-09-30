@@ -1,6 +1,6 @@
 # 🌟 Portafolio de **OUSSAMA GHEZZALI** 
 
-¡Bienvenido a mi portafolio! Soy **Oussama**, un apasionado de [Informatica] con experiencia en . En este documento, encontrarás información sobre mí, mis proyectos y cómo contactarme.
+¡Bienvenido a mi portafolio! Soy **Oussama**, un apasionado de [Informatica] con experiencia en . En este documento, encontrarás información sobre mí, mis proyectos y cómo contactarme. 
 
 ---
 
@@ -8,7 +8,7 @@
 
 Soy estudiante de administracion de sistemas informatica en red  y cocinero en bodegas campos de cordoba 
 teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de trabajo en el sector de hosteleria y despues de aprender español. Me encanta.
-jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer caballitos en motos 
+jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer caballitos en (motos)[ https://tinyurl.com/35c9hvwx]
 
 ---  
 

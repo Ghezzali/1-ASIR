@@ -8,7 +8,8 @@
 
 Soy estudiante de administracion de sistemas informatica en red  y cocinero en bodegas campos de cordoba 
 teniendo  un titulo de direccion de cocina y bachilerato  depues de un año de trabajo en el sector de hosteleria y despues de aprender español. Me encanta.
-jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer [**caballitos en (motos**].(https://tinyurl.com/35c9hvwx)
+jugar videos , hacer de senderismo por las montañas verdusa nada de secoç ni disierto 😁 siempre en la epoca invierno ✌️ tambien me gusta conducir coches y motos me gusta hacer [**caballitos en motos**].(![image](https://github.com/user-attachments/assets/f61346a1-d9bc-4e05-a8e9-c12efb1631f3)
+)
 
 ---  
 
